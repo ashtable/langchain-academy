@@ -1,0 +1,7 @@
+[project]
+name = "intro-to-langgraph"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11.10"
+dependencies = []
